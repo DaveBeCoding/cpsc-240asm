@@ -54,7 +54,8 @@ int main(int argc, char *argv[])
 
     double return_code = -99.99; //-99.99 is an arbitrary number; that initial value could have been anything.
 
-    printf("%s", "Welcome to X86 programming.\n");
+    // printf("%s", "Weeeeeelcome to X86 programming.\n");
+    printf("%s", "Welcome to this friendly ‘Hello’ program created by David Johnson.\n");
     return_code = hello_world();
     printf("%s%1.18lf%s\n", "The driver received return code ", return_code, ".\nThe driver will now return 0 to the OS.  Bye.");
 

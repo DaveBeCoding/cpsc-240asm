@@ -31,11 +31,9 @@
 *.out
 *.app
 
-#Dir list
+#MyDir list
 examples-01/
 delete-example/
 examples/
-
-
 
 #My Files
